@@ -1,5 +1,5 @@
 {
-  "name": "@fyxz/baileys",
+  "name": "@dinatacode/baileys",
   "version": "8.0.8",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/Fyxzpedia-Git/Baileys",
+  "homepage": "https://github.com/RiskyHosting/baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Fyxzpedia-Git/Baileys.git"
+    "url": "git+ssh://git@github.com/RiskyHosting/baileys.git"
   },
   "license": "MIT",
-  "author": "Fyxzpedia",
+  "author": "Dinatacode",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -98,6 +98,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/Fyxzpedia-Git/Baileys/issues"
+    "url": "https://github.com/RiskyHosting/baileys/issues"
   }
 }
